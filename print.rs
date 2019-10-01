@@ -21,4 +21,7 @@ pub fn run() {
     // Basic math
     println!("10 + 10 = {}", 10 + 10);
 
+    //Basic Print on PR for Hacktoberfest!!!
+    println!("{0} like to {1} together for {2}", "friends", "pull request", "Hacktoberfest")
+
 }
